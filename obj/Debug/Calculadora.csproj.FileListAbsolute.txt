@@ -1,0 +1,15 @@
+C:\Users\Alexander\source\repos\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Alexander\source\repos\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Alexander\source\repos\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Alexander\source\repos\Calculadora\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander\source\repos\Calculadora\obj\Debug\App.g.cs
+C:\Users\Alexander\source\repos\Calculadora\obj\Debug\Calculadora_MarkupCompile.cache
+C:\Users\Alexander\source\repos\Calculadora\obj\Debug\Calculadora_MarkupCompile.lref
+C:\Users\Alexander\source\repos\Calculadora\obj\Debug\MainWindow.baml
+C:\Users\Alexander\source\repos\Calculadora\obj\Debug\Calculadora.g.resources
+C:\Users\Alexander\source\repos\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Alexander\source\repos\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Alexander\source\repos\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Alexander\source\repos\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Alexander\source\repos\Calculadora\obj\Debug\App.baml
